@@ -1,0 +1,134 @@
+h1 {
+    font: small-caps bold 16px Georgia, "Times New Roman", Times, serif;
+    color: #FC0;
+    text-align: center;
+}
+
+header {
+    width: 850px;
+    border-bottom: 1px solid #FFF;
+    padding-top: 5%;
+}
+
+header {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+#container {
+    width: 850px;
+    margin: 0 auto;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+body {
+    margin: 0 auto;
+    color: #fff;
+    background: #313F76;
+}
+
+footer {
+    clear: both;
+    width: 850px;
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #FFF;
+}
+
+footer {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    margin: 0 auto;
+    color: #fff;
+    background: #30865d;
+}
+
+#mainContent {
+    float: left;
+    width: 820px;
+    padding: 20px 0 10px 0;
+    margin-left: 1%;
+}
+
+#mainContent p {
+    font-size: 1em;
+    line-height: 1em;
+    margin-bottom: 20px;
+    margin-top: 55px;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+element.style {
+    width: 175px;
+    height: 177px;
+    background-image: url(http://www.trainpetdog.com/breeder_logo.png);
+    vertical-align: center;
+    margin-left: 150px;
+}
+
+.floatright {
+    float: right;
+    padding: 5px;
+}
+
+script {
+    display: none;
+}
+
+
+/* Navigation; the buttons */
+#navigation {
+    /* width: 10px; (lefthand navigation) */
+    float: left;
+    padding: 30px 0 10px 0;
+    margin-left: 6%;
+}
+
+#navigation a {
+    float: left;
+    width: 176px;
+    height: 33px;
+    margin: 5px 5px;
+    text-align: center;
+    background-color: #5aa69c; /* Button background color */
+    color: white;
+    font-size: 20px;
+    font-family: 'Papyrus', cursive;
+    line-height: 33px; /* Vertically center text */
+    text-decoration: none;
+    border-radius: 20%;
+    transition: background-color 0.3s;
+}
+
+/* Fallback text style if image doesn't load */
+#navigation a img {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+#navigation a:hover {
+    background-color: #999999; /* Change background on hover */
+    color: #ffffff;
+}
+
+#sticker {
+    margin:  2%;
+    display: block;
+    padding: 10px 0 10px 0;
+}
