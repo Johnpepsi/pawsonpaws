@@ -22,7 +22,7 @@ header {
 
 h1 {
     display: block;
-    font-size: 2em;
+    font-size: 1.5em;
     margin-block-start: 0.67em;
     margin-block-end: 0.67em;
     margin-inline-start: 0px;
@@ -51,7 +51,7 @@ footer {
 body {
     margin: 0 auto;
     color: #fff;
-    background: #30865d;
+    background: #585d92;
 }
 
 #mainContent {
@@ -105,7 +105,7 @@ script {
     height: 33px;
     margin: 5px 5px;
     text-align: center;
-    background-color: #5aa69c; /* Button background color */
+    background-color: #1d3952; /* Button background color */
     color: white;
     font-size: 20px;
     font-family: 'Papyrus', cursive;
@@ -123,8 +123,8 @@ script {
 }
 
 #navigation a:hover {
-    background-color: #999999; /* Change background on hover */
-    color: #ffffff;
+    background-color: #276989; /* Change background on hover */
+    color: #5b5a67;
 }
 
 #sticker {
